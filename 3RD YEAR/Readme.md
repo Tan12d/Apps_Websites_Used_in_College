@@ -46,8 +46,6 @@
 
 ![image](https://github.com/Tan12d/Apps_Websites_Used_in_College/assets/100254217/253f5072-f350-4761-8893-1a83a124e57b)
 
-![image](https://github.com/Tan12d/Apps_Websites_Used_in_College/assets/100254217/44d9efc6-ac15-417b-b0aa-0ef53b8db89e)
-
 ## 3. Programming Languages and Compilers
 
 ## 4. Web Application Development

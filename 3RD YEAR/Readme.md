@@ -10,7 +10,7 @@
 
 ![image](https://github.com/Tan12d/Apps_Websites_Used_in_College/assets/100254217/32bf1815-90df-4b8e-9d69-074aff89cab1)
 
-![image](https://github.com/Tan12d/Apps_Websites_Used_in_College/assets/100254217/249b50b3-e7dd-4d55-9600-43cce251aa0d)
+![image](https://github.com/Tan12d/Apps_Websites_Used_in_College/assets/100254217/b9d45625-2c1e-45d1-b6ec-cbe00df6d458)
 
 ![image](https://github.com/Tan12d/Apps_Websites_Used_in_College/assets/100254217/387df284-734c-493c-8e86-292fc5aa81c8)
 
@@ -18,7 +18,7 @@
 
 ![image](https://github.com/Tan12d/Apps_Websites_Used_in_College/assets/100254217/32bf1815-90df-4b8e-9d69-074aff89cab1)
 
-![image](https://github.com/Tan12d/Apps_Websites_Used_in_College/assets/100254217/249b50b3-e7dd-4d55-9600-43cce251aa0d)
+![image](https://github.com/Tan12d/Apps_Websites_Used_in_College/assets/100254217/4657589f-1d46-437d-a3ef-21e9394ca9c7)
 
 ![image](https://github.com/Tan12d/Apps_Websites_Used_in_College/assets/100254217/387df284-734c-493c-8e86-292fc5aa81c8)
 
@@ -48,10 +48,18 @@
 
 ![image](https://github.com/Tan12d/Apps_Websites_Used_in_College/assets/100254217/44d9efc6-ac15-417b-b0aa-0ef53b8db89e)
 
-## 3. 
+## 3. Programming Languages and Compilers
 
+## 4. Web Application Development
 
+![image](https://github.com/Tan12d/Apps_Websites_Used_in_College/assets/100254217/36aa4f56-9fda-4b7e-903a-b0edf5fd4ddf)
 
+![image](https://github.com/Tan12d/Apps_Websites_Used_in_College/assets/100254217/8f8bc3d9-afde-4ba6-b555-8282a4e9af07)
 
+## 5. Web Technology Workshop 2
+
+![image](https://github.com/Tan12d/Apps_Websites_Used_in_College/assets/100254217/36aa4f56-9fda-4b7e-903a-b0edf5fd4ddf)
+
+![image](https://github.com/Tan12d/Apps_Websites_Used_in_College/assets/100254217/cd7321d8-fcd4-4ebe-98fd-cd55df1738bd)
 
 
